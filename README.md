@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  <a href="https://utfpr.curitiba.br/blockchain" target="blank"><img src="https://utfpr-ct-static-content.s3.amazonaws.com/utfpr.curitiba.br/wp-content/uploads/sites/54/2023/05/cropped-logosemfundo.png" width="200" alt="Nest Logo" /></a>
 </p>
 
 [circleci-image]: https://utfpr-ct-static-content.s3.amazonaws.com/utfpr.curitiba.br/wp-content/uploads/sites/54/2023/05/cropped-logosemfundo.png
@@ -21,12 +21,12 @@ $ npm install
 
 ## Variáveis de ambiente
 
-WALLET -> Endereço público da conta utilizada
-PRIVATE_KEY -> Private Key da carteira especificada
-RPC_URL -> Endpoint fornecido pelo provedor de RPC (e.g. Alchemy)
-TOKEN_TX_1 -> Token de acesso fornecido pelo provedor de RPC (e.g. Alchemy API-Key)
-PORT=3000 -> Port ade execução local (e.g. 3000)
-
+<ul>
+  <li>WALLET -> Endereço público da conta utilizada</li>
+  <li>PRIVATE_KEY -> Private Key da carteira especificada</li>
+  <li>TOKEN_TX_1 -> Token de acesso fornecido pelo provedor de RPC (e.g. Alchemy API-Key)</li>
+  <li>PORT=3000 -> Port ade execução local (e.g. 3000)</li>
+</ul>
 
 ## Executar a aplicação
 
