@@ -24,6 +24,7 @@ $ npm install
 <ul>
   <li>WALLET -> Endereço público da conta utilizada</li>
   <li>PRIVATE_KEY -> Private Key da carteira especificada</li>
+  <li>RPC_URL -> Endpoint fornecido pelo provedor de RPC (e.g. Alchemy)</li>
   <li>TOKEN_TX_1 -> Token de acesso fornecido pelo provedor de RPC (e.g. Alchemy API-Key)</li>
   <li>PORT=3000 -> Port ade execução local (e.g. 3000)</li>
 </ul>
